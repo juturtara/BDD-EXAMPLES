@@ -1,0 +1,9 @@
+org\capgemini\dao\ProductDaoImpl.class
+org\capgemini\util\ProductUtility.class
+org\capgemini\dao\ProductDao.class
+org\capgemini\service\ProductServiceImpl.class
+org\capgemini\dto\Product.class
+org\capgemini\exception\InvalidProductQuantityException.class
+org\capgemini\dto\Address.class
+org\capgemini\dto\Supplier.class
+org\capgemini\service\ProductService.class
